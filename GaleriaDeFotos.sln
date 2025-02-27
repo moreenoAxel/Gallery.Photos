@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{9B084063-B340-4032-8A3C-F850A6EB2E7B}"
+	ProjectSection(SolutionItems) = preProject
+		gallery.html = gallery.html
+		index.html = index.html
+		upolad.html = upolad.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{743B5F34-4621-4CDC-8955-8C2B1D8427F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{7C14B134-35E6-4FAE-B95E-8DA3DFDB5CE2}"
+	ProjectSection(SolutionItems) = preProject
+		Style.css = Style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{8EBB9DA5-D11F-47FD-943D-5DFA06604848}"
+	ProjectSection(SolutionItems) = preProject
+		animation.js = animation.js
+		gallery.js = gallery.js
+		main.js = main.js
+		upload.js = upload.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackEnd", "BackEnd", "{DAB640D5-909F-4832-BDFE-0F5B2FE77D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaleriaDeFotosAPI", "GaleriaDeFotosAPI\GaleriaDeFotosAPI.csproj", "{77089DB6-FA10-432C-BC90-DC75B762D72F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77089DB6-FA10-432C-BC90-DC75B762D72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77089DB6-FA10-432C-BC90-DC75B762D72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77089DB6-FA10-432C-BC90-DC75B762D72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77089DB6-FA10-432C-BC90-DC75B762D72F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{743B5F34-4621-4CDC-8955-8C2B1D8427F1} = {9B084063-B340-4032-8A3C-F850A6EB2E7B}
+		{7C14B134-35E6-4FAE-B95E-8DA3DFDB5CE2} = {9B084063-B340-4032-8A3C-F850A6EB2E7B}
+		{8EBB9DA5-D11F-47FD-943D-5DFA06604848} = {9B084063-B340-4032-8A3C-F850A6EB2E7B}
+		{77089DB6-FA10-432C-BC90-DC75B762D72F} = {DAB640D5-909F-4832-BDFE-0F5B2FE77D8E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44F2613B-8AEF-4B60-8032-424C135A3720}
+	EndGlobalSection
+EndGlobal

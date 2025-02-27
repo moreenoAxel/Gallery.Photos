@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nuestra Galería</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script defer src="animations.js"></script>
+    <script defer src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            AOS.init();
+        });
+    </script>
+    <script defer src="animations.js"></script>
+</head>
+<body class="h-screen flex flex-col bg-white text-gray-800">
+
+    <!-- Modal -->
+    <div id="welcomeModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+        <div class="bg-white rounded-lg shadow-lg p-8 max-w-lg mx-auto">
+            <h2 class="text-2xl font-bold mb-4">¡Feliz san valentin!</h2>
+            <p class="mb-6">creo esto para tener nuestro lugarcito de recuerdos, cualquier momento, vamos a guardarlo aca para que perdure en el tiempo, te amo.</p>
+            <button id="closeModal" class="bg-red-600 text-white px-4 py-2 rounded hover:bg-red-700 transition">Cerrar</button>
+        </div>
+    </div>
+
+    <header class="bg-red-600 text-white p-6 animate-fade-in">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-3xl font-semibold">Nuestra galería</h1>
+            <nav>
+                <a href="gallery.html" class="text-white px-4 hover:text-gray-300 transition">Galería</a>
+                <a href="upolad.html" class="text-white px-4 hover:text-gray-300 transition">Subir fotos</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="flex-1 flex flex-col bg-red-800 items-center justify-center text-center animate-slide-in">
+        <h2 class="text-4xl font-bold mb-4">Explora nuestros recuerdos</h2>
+        <p class="text-lg mb-8">Una colección de momentos</p>
+        <a href="gallery.html" class="bg-pink-300 text-red-800 py-2 px-6 rounded-full hover:bg-pink-400 transition transform hover:scale-105">Ver galería</a>
+    </div>
+
+    <footer class="bg-gray-800 text-white text-center py-4 animate-fade-in">
+        <p>&copy; 2025 Nuestra galería. Todos los derechos reservados</p>
+    </footer>
+
+    <script src="animation.js"></script>
+    <script src="main.js"></script>
+
+</body>
+</html>

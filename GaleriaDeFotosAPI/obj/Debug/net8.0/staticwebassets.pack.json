@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GaleriaDeFotosAPI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GaleriaDeFotosAPI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\uploads\\15a8ebdd-797d-43fd-bed9-e9d1a03f72a1.png",
+      "PackagePath": "staticwebassets\\uploads\\15a8ebdd-797d-43fd-bed9-e9d1a03f72a1.png"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\uploads\\1db651c9-9d35-4e2d-8d64-fb1bcaf5492b.png",
+      "PackagePath": "staticwebassets\\uploads\\1db651c9-9d35-4e2d-8d64-fb1bcaf5492b.png"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\uploads\\5cfae2f2-28a9-41b9-8755-6f7a00eff689_Captura de pantalla (211).png",
+      "PackagePath": "staticwebassets\\uploads\\5cfae2f2-28a9-41b9-8755-6f7a00eff689_Captura de pantalla (211).png"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\uploads\\609a4f0e-882d-4512-8fbb-271b3ef880ad_Captura de pantalla (211).png",
+      "PackagePath": "staticwebassets\\uploads\\609a4f0e-882d-4512-8fbb-271b3ef880ad_Captura de pantalla (211).png"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\uploads\\7035187e-e33c-4d6f-981b-ae1067034108_Captura de pantalla (211).png",
+      "PackagePath": "staticwebassets\\uploads\\7035187e-e33c-4d6f-981b-ae1067034108_Captura de pantalla (211).png"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\uploads\\734d49f2-b95c-4c7c-8066-04fd87b30ab5_Captura de pantalla (212).png",
+      "PackagePath": "staticwebassets\\uploads\\734d49f2-b95c-4c7c-8066-04fd87b30ab5_Captura de pantalla (212).png"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\uploads\\88aff799-85b7-43d9-b9fe-12bc309763e8.png",
+      "PackagePath": "staticwebassets\\uploads\\88aff799-85b7-43d9-b9fe-12bc309763e8.png"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\uploads\\a8102af2-3bb9-4229-9f4c-06ff74e24710.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a8102af2-3bb9-4229-9f4c-06ff74e24710.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\uploads\\bdfe55b2-ae7a-486b-8162-ec421a09547c_Captura de pantalla (211).png",
+      "PackagePath": "staticwebassets\\uploads\\bdfe55b2-ae7a-486b-8162-ec421a09547c_Captura de pantalla (211).png"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\uploads\\c1108f9c-9117-4d5c-82a3-6437a2812d42_Captura de pantalla (211).png",
+      "PackagePath": "staticwebassets\\uploads\\c1108f9c-9117-4d5c-82a3-6437a2812d42_Captura de pantalla (211).png"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\uploads\\e0f9b241-6007-4c1a-bd3d-3faa20ddd1ae_Captura de pantalla (211).png",
+      "PackagePath": "staticwebassets\\uploads\\e0f9b241-6007-4c1a-bd3d-3faa20ddd1ae_Captura de pantalla (211).png"
+    },
+    {
+      "Id": "C:\\Users\\Laura\\Desktop\\GaleriaDeFotos\\GaleriaDeFotosAPI\\wwwroot\\uploads\\e7c22e7f-9d40-4160-8289-bdd2224b3d12_Captura de pantalla (212).png",
+      "PackagePath": "staticwebassets\\uploads\\e7c22e7f-9d40-4160-8289-bdd2224b3d12_Captura de pantalla (212).png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GaleriaDeFotosAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GaleriaDeFotosAPI.props",
+      "PackagePath": "build\\GaleriaDeFotosAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GaleriaDeFotosAPI.props",
+      "PackagePath": "buildMultiTargeting\\GaleriaDeFotosAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GaleriaDeFotosAPI.props",
+      "PackagePath": "buildTransitive\\GaleriaDeFotosAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
